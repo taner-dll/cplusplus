@@ -1,15 +1,17 @@
 #include <iostream>
 
 
-int main() {
-
-    int i;
-
-    for (i = 0; i < 10; ++i) {
-        std::cout << i << "\t";
+int faktoriyel(int sayi) {
+    int carp = 1;
+    for (int i = 1; i <= sayi; sayi--) {
+        carp = carp * sayi;
     }
-
-    return 0;
-
-
+    return carp;
 }
+
+int main() {
+    std::cout << faktoriyel(5);
+    return 0;
+}
+
+
