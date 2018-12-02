@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/tnrdll/CLionProjects/untitled/functions/faktoriyel.cpp" "C:/Users/tnrdll/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/functions/faktoriyel.cpp.obj"
   "C:/Users/tnrdll/CLionProjects/untitled/main.cpp" "C:/Users/tnrdll/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.obj"
   "C:/Users/tnrdll/CLionProjects/untitled/test.cpp" "C:/Users/tnrdll/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/test.cpp.obj"
   )

@@ -122,6 +122,33 @@ untitled/fast:
 	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/build
 .PHONY : untitled/fast
 
+functions/faktoriyel.obj: functions/faktoriyel.cpp.obj
+
+.PHONY : functions/faktoriyel.obj
+
+# target to build an object file
+functions/faktoriyel.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/functions/faktoriyel.cpp.obj
+.PHONY : functions/faktoriyel.cpp.obj
+
+functions/faktoriyel.i: functions/faktoriyel.cpp.i
+
+.PHONY : functions/faktoriyel.i
+
+# target to preprocess a source file
+functions/faktoriyel.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/functions/faktoriyel.cpp.i
+.PHONY : functions/faktoriyel.cpp.i
+
+functions/faktoriyel.s: functions/faktoriyel.cpp.s
+
+.PHONY : functions/faktoriyel.s
+
+# target to generate assembly for a file
+functions/faktoriyel.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/functions/faktoriyel.cpp.s
+.PHONY : functions/faktoriyel.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -185,6 +212,9 @@ help:
 	@echo ... edit_cache
 	@echo ... untitled
 	@echo ... rebuild_cache
+	@echo ... functions/faktoriyel.obj
+	@echo ... functions/faktoriyel.i
+	@echo ... functions/faktoriyel.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
