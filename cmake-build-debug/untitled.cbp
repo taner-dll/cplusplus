@@ -85,6 +85,9 @@
 		<Unit filename="C:/Users/tnrdll/CLionProjects/untitled/main.cpp">
 			<Option target="untitled"/>
 		</Unit>
+		<Unit filename="C:/Users/tnrdll/CLionProjects/untitled/test.cpp">
+			<Option target="untitled"/>
+		</Unit>
 		<Unit filename="C:/Users/tnrdll/CLionProjects/untitled/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
