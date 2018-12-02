@@ -3,7 +3,13 @@
 
 
 int main() {
-    std::cout << faktoriyel(5);
+
+    std::cout << "Faktoriyeli alinacak sayiyi giriniz:";
+
+    int sayi;
+    std::cin >> sayi;
+
+    std::cout << faktoriyel(sayi);
     return 0;
 }
 
