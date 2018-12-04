@@ -149,6 +149,33 @@ classes/aforizma.cpp.s:
 	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/classes/aforizma.cpp.s
 .PHONY : classes/aforizma.cpp.s
 
+classes/utils.obj: classes/utils.cpp.obj
+
+.PHONY : classes/utils.obj
+
+# target to build an object file
+classes/utils.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/classes/utils.cpp.obj
+.PHONY : classes/utils.cpp.obj
+
+classes/utils.i: classes/utils.cpp.i
+
+.PHONY : classes/utils.i
+
+# target to preprocess a source file
+classes/utils.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/classes/utils.cpp.i
+.PHONY : classes/utils.cpp.i
+
+classes/utils.s: classes/utils.cpp.s
+
+.PHONY : classes/utils.s
+
+# target to generate assembly for a file
+classes/utils.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/classes/utils.cpp.s
+.PHONY : classes/utils.cpp.s
+
 functions/faktoriyel.obj: functions/faktoriyel.cpp.obj
 
 .PHONY : functions/faktoriyel.obj
@@ -242,6 +269,9 @@ help:
 	@echo ... classes/aforizma.obj
 	@echo ... classes/aforizma.i
 	@echo ... classes/aforizma.s
+	@echo ... classes/utils.obj
+	@echo ... classes/utils.i
+	@echo ... classes/utils.s
 	@echo ... functions/faktoriyel.obj
 	@echo ... functions/faktoriyel.i
 	@echo ... functions/faktoriyel.s

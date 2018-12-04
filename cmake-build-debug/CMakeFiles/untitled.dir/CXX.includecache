@@ -6,13 +6,9 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/tnrdll/CLionProjects/untitled/classes/aforizma.cpp
-c++/4.8.3/iostream
--
-aforizma.h
 C:/Users/tnrdll/CLionProjects/untitled/classes/aforizma.h
 
-C:/Users/tnrdll/CLionProjects/untitled/classes/aforizma.h
+C:/Users/tnrdll/CLionProjects/untitled/classes/utils.h
 
 C:/Users/tnrdll/CLionProjects/untitled/functions/faktoriyel.h
 
@@ -23,4 +19,8 @@ functions/faktoriyel.h
 C:/Users/tnrdll/CLionProjects/untitled/functions/faktoriyel.h
 classes/aforizma.h
 C:/Users/tnrdll/CLionProjects/untitled/classes/aforizma.h
+classes/utils.h
+C:/Users/tnrdll/CLionProjects/untitled/classes/utils.h
+ctime
+-
 
