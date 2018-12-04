@@ -1,16 +1,36 @@
 #include <iostream>
 #include "functions/faktoriyel.h"
 
+using namespace std;
+
+
+//class denemesi
+class aforizmalar {
+    public:
+        void yazi1() {
+            cout << "Dun dunse, bugun bugundur.";
+        }
+};
+
 
 int main() {
 
-    std::cout << "Faktoriyeli alinacak sayiyi giriniz:";
 
-    int sayi;
-    std::cin >> sayi;
+    aforizmalar af_obj;
 
-    std::cout << faktoriyel(sayi);
+    af_obj.yazi1();
     return 0;
+
+    /*
+    int sayi;
+    std::cout << "Faktoriyeli alinacak sayiyi giriniz:";
+    std::cin >> sayi;
+    cout << faktoriyel(sayi);
+    return 0;
+     */
+
+
+
 }
 
 
