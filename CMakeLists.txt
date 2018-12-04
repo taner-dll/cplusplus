@@ -3,4 +3,4 @@ project(untitled)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(untitled main.cpp test.cpp functions/faktoriyel.h functions/faktoriyel.cpp)
+add_executable(untitled main.cpp test.cpp functions/faktoriyel.h functions/faktoriyel.cpp classes/aforizma.cpp classes/aforizma.h)

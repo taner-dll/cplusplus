@@ -1,25 +1,26 @@
 #include <iostream>
 #include "functions/faktoriyel.h"
+#include "classes/aforizma.h"
 
 using namespace std;
 
-
-//class denemesi
-class aforizmalar {
-    public:
-        void yazi1() {
-            cout << "Dun dunse, bugun bugundur.";
-        }
-};
 
 
 int main() {
 
 
-    aforizmalar af_obj;
 
+    /* class include
+    aforizma a_obj;
+    a_obj.yazi1();
+    */
+
+    /*
+    //class denemesi
+    aforizmalar af_obj;
     af_obj.yazi1();
     return 0;
+    */
 
     /*
     int sayi;
