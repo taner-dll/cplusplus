@@ -149,33 +149,6 @@ classes/aforizma.cpp.s:
 	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/classes/aforizma.cpp.s
 .PHONY : classes/aforizma.cpp.s
 
-classes/utils.obj: classes/utils.cpp.obj
-
-.PHONY : classes/utils.obj
-
-# target to build an object file
-classes/utils.cpp.obj:
-	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/classes/utils.cpp.obj
-.PHONY : classes/utils.cpp.obj
-
-classes/utils.i: classes/utils.cpp.i
-
-.PHONY : classes/utils.i
-
-# target to preprocess a source file
-classes/utils.cpp.i:
-	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/classes/utils.cpp.i
-.PHONY : classes/utils.cpp.i
-
-classes/utils.s: classes/utils.cpp.s
-
-.PHONY : classes/utils.s
-
-# target to generate assembly for a file
-classes/utils.cpp.s:
-	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/classes/utils.cpp.s
-.PHONY : classes/utils.cpp.s
-
 functions/faktoriyel.obj: functions/faktoriyel.cpp.obj
 
 .PHONY : functions/faktoriyel.obj
@@ -230,32 +203,32 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-test.obj: test.cpp.obj
+utils.obj: utils.cpp.obj
 
-.PHONY : test.obj
+.PHONY : utils.obj
 
 # target to build an object file
-test.cpp.obj:
-	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/test.cpp.obj
-.PHONY : test.cpp.obj
+utils.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/utils.cpp.obj
+.PHONY : utils.cpp.obj
 
-test.i: test.cpp.i
+utils.i: utils.cpp.i
 
-.PHONY : test.i
+.PHONY : utils.i
 
 # target to preprocess a source file
-test.cpp.i:
-	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/test.cpp.i
-.PHONY : test.cpp.i
+utils.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/utils.cpp.i
+.PHONY : utils.cpp.i
 
-test.s: test.cpp.s
+utils.s: utils.cpp.s
 
-.PHONY : test.s
+.PHONY : utils.s
 
 # target to generate assembly for a file
-test.cpp.s:
-	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/test.cpp.s
-.PHONY : test.cpp.s
+utils.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/utils.cpp.s
+.PHONY : utils.cpp.s
 
 # Help Target
 help:
@@ -269,18 +242,15 @@ help:
 	@echo ... classes/aforizma.obj
 	@echo ... classes/aforizma.i
 	@echo ... classes/aforizma.s
-	@echo ... classes/utils.obj
-	@echo ... classes/utils.i
-	@echo ... classes/utils.s
 	@echo ... functions/faktoriyel.obj
 	@echo ... functions/faktoriyel.i
 	@echo ... functions/faktoriyel.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
-	@echo ... test.obj
-	@echo ... test.i
-	@echo ... test.s
+	@echo ... utils.obj
+	@echo ... utils.i
+	@echo ... utils.s
 .PHONY : help
 
 

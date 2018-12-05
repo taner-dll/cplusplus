@@ -4,14 +4,12 @@
 
 #include "utils.h"
 
-bool utils::in_array(int array[], int size, int target) {
 
+bool utils::in_array(int array[], int size, int target) {
     for (int i = 0; i < size; ++i) {
-        if(array[i]==target){
+        if (array[i] == target) {
             return true;
         }
     }
-
     return false;
-
 }

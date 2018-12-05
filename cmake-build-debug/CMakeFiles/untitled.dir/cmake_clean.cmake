@@ -1,9 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/untitled.dir/main.cpp.obj"
-  "CMakeFiles/untitled.dir/test.cpp.obj"
   "CMakeFiles/untitled.dir/functions/faktoriyel.cpp.obj"
   "CMakeFiles/untitled.dir/classes/aforizma.cpp.obj"
-  "CMakeFiles/untitled.dir/classes/utils.cpp.obj"
+  "CMakeFiles/untitled.dir/utils.cpp.obj"
   "untitled.pdb"
   "untitled.exe"
   "untitled.exe.manifest"

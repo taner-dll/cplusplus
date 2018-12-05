@@ -69,22 +69,9 @@ CMakeFiles/untitled.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/main.cpp.s"
 	C:\Users\tnrdll\win-builds\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\tnrdll\CLionProjects\untitled\main.cpp -o CMakeFiles\untitled.dir\main.cpp.s
 
-CMakeFiles/untitled.dir/test.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/test.cpp.obj: ../test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tnrdll\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled.dir/test.cpp.obj"
-	C:\Users\tnrdll\win-builds\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\test.cpp.obj -c C:\Users\tnrdll\CLionProjects\untitled\test.cpp
-
-CMakeFiles/untitled.dir/test.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/test.cpp.i"
-	C:\Users\tnrdll\win-builds\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\tnrdll\CLionProjects\untitled\test.cpp > CMakeFiles\untitled.dir\test.cpp.i
-
-CMakeFiles/untitled.dir/test.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/test.cpp.s"
-	C:\Users\tnrdll\win-builds\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\tnrdll\CLionProjects\untitled\test.cpp -o CMakeFiles\untitled.dir\test.cpp.s
-
 CMakeFiles/untitled.dir/functions/faktoriyel.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/functions/faktoriyel.cpp.obj: ../functions/faktoriyel.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tnrdll\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/untitled.dir/functions/faktoriyel.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tnrdll\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled.dir/functions/faktoriyel.cpp.obj"
 	C:\Users\tnrdll\win-builds\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\functions\faktoriyel.cpp.obj -c C:\Users\tnrdll\CLionProjects\untitled\functions\faktoriyel.cpp
 
 CMakeFiles/untitled.dir/functions/faktoriyel.cpp.i: cmake_force
@@ -97,7 +84,7 @@ CMakeFiles/untitled.dir/functions/faktoriyel.cpp.s: cmake_force
 
 CMakeFiles/untitled.dir/classes/aforizma.cpp.obj: CMakeFiles/untitled.dir/flags.make
 CMakeFiles/untitled.dir/classes/aforizma.cpp.obj: ../classes/aforizma.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tnrdll\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/untitled.dir/classes/aforizma.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tnrdll\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/untitled.dir/classes/aforizma.cpp.obj"
 	C:\Users\tnrdll\win-builds\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\classes\aforizma.cpp.obj -c C:\Users\tnrdll\CLionProjects\untitled\classes\aforizma.cpp
 
 CMakeFiles/untitled.dir/classes/aforizma.cpp.i: cmake_force
@@ -108,40 +95,38 @@ CMakeFiles/untitled.dir/classes/aforizma.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/classes/aforizma.cpp.s"
 	C:\Users\tnrdll\win-builds\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\tnrdll\CLionProjects\untitled\classes\aforizma.cpp -o CMakeFiles\untitled.dir\classes\aforizma.cpp.s
 
-CMakeFiles/untitled.dir/classes/utils.cpp.obj: CMakeFiles/untitled.dir/flags.make
-CMakeFiles/untitled.dir/classes/utils.cpp.obj: ../classes/utils.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tnrdll\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/untitled.dir/classes/utils.cpp.obj"
-	C:\Users\tnrdll\win-builds\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\classes\utils.cpp.obj -c C:\Users\tnrdll\CLionProjects\untitled\classes\utils.cpp
+CMakeFiles/untitled.dir/utils.cpp.obj: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/utils.cpp.obj: ../utils.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\tnrdll\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/untitled.dir/utils.cpp.obj"
+	C:\Users\tnrdll\win-builds\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\untitled.dir\utils.cpp.obj -c C:\Users\tnrdll\CLionProjects\untitled\utils.cpp
 
-CMakeFiles/untitled.dir/classes/utils.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/classes/utils.cpp.i"
-	C:\Users\tnrdll\win-builds\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\tnrdll\CLionProjects\untitled\classes\utils.cpp > CMakeFiles\untitled.dir\classes\utils.cpp.i
+CMakeFiles/untitled.dir/utils.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/utils.cpp.i"
+	C:\Users\tnrdll\win-builds\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\tnrdll\CLionProjects\untitled\utils.cpp > CMakeFiles\untitled.dir\utils.cpp.i
 
-CMakeFiles/untitled.dir/classes/utils.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/classes/utils.cpp.s"
-	C:\Users\tnrdll\win-builds\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\tnrdll\CLionProjects\untitled\classes\utils.cpp -o CMakeFiles\untitled.dir\classes\utils.cpp.s
+CMakeFiles/untitled.dir/utils.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/utils.cpp.s"
+	C:\Users\tnrdll\win-builds\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\tnrdll\CLionProjects\untitled\utils.cpp -o CMakeFiles\untitled.dir\utils.cpp.s
 
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/main.cpp.obj" \
-"CMakeFiles/untitled.dir/test.cpp.obj" \
 "CMakeFiles/untitled.dir/functions/faktoriyel.cpp.obj" \
 "CMakeFiles/untitled.dir/classes/aforizma.cpp.obj" \
-"CMakeFiles/untitled.dir/classes/utils.cpp.obj"
+"CMakeFiles/untitled.dir/utils.cpp.obj"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
 
 untitled.exe: CMakeFiles/untitled.dir/main.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/test.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/functions/faktoriyel.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/classes/aforizma.cpp.obj
-untitled.exe: CMakeFiles/untitled.dir/classes/utils.cpp.obj
+untitled.exe: CMakeFiles/untitled.dir/utils.cpp.obj
 untitled.exe: CMakeFiles/untitled.dir/build.make
 untitled.exe: CMakeFiles/untitled.dir/linklibs.rsp
 untitled.exe: CMakeFiles/untitled.dir/objects1.rsp
 untitled.exe: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\tnrdll\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable untitled.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\tnrdll\CLionProjects\untitled\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable untitled.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\untitled.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
