@@ -2,8 +2,29 @@
 
 using namespace std;
 
+/*
+class epikod {
+public:
+    epikod() {
+        this->name = "yuklendi";
+    }
 
+    string getName() {
+        return name;
+    }
 
+    void setName(string s1) {
+        name = s1;
+    }
+
+    ~epikod() {
+        cout << "destructor";
+    }
+
+private:
+    string name;
+};
+ */
 
 
 int main() {
@@ -12,33 +33,15 @@ int main() {
     //todo sayısal loto
 
 
-
-
     return 0;
 
 
 
     //setter - getter class
-    /*
-    class epikod {
-    public:
-        string getName() {
-            return name;
-        }
 
-        void setName(string s1) {
-            name = s1;
-        }
-
-    private:
-        string name;
-    };
-    */
 
     /* setter - getter class
-    epikod e;
-    e.setName("Epikod");
-    cout << e.getName();
+
     */
 
 
