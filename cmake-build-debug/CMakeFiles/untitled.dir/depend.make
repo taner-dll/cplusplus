@@ -6,6 +6,11 @@ CMakeFiles/untitled.dir/classes/aforizma.cpp.obj: ../classes/aforizma.h
 
 CMakeFiles/untitled.dir/functions/faktoriyel.cpp.obj: ../functions/faktoriyel.cpp
 
+CMakeFiles/untitled.dir/functions/sayisal.cpp.obj: ../functions/sayisal.cpp
+CMakeFiles/untitled.dir/functions/sayisal.cpp.obj: ../functions/sayisal.h
+CMakeFiles/untitled.dir/functions/sayisal.cpp.obj: ../utils.h
+
+CMakeFiles/untitled.dir/main.cpp.obj: ../functions/sayisal.h
 CMakeFiles/untitled.dir/main.cpp.obj: ../main.cpp
 CMakeFiles/untitled.dir/main.cpp.obj: ../utils.h
 

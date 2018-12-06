@@ -2,43 +2,18 @@
 #include "utils.h"
 #include <stdlib.h>
 
+#include "functions/sayisal.h"      //sayisal
+
 
 using namespace std;
 
-/*
-class epikod {
-public:
-    epikod() {
-        this->name = "yuklendi";
-    }
 
-    string getName() {
-        return name;
-    }
-
-    void setName(string s1) {
-        name = s1;
-    }
-
-    ~epikod() {
-        cout << "destructor";
-    }
-
-private:
-    string name;
-};
- */
 
 
 int main() {
 
+    sayisal_kolon_uret();
 
-    //todo sayısal loto
-
-    utils util;
-
-
-    cout << util.rand(10,100);
 
     return 0;
 
@@ -86,5 +61,30 @@ int main() {
      */
 
 }
+
+
+/*
+class epikod {
+public:
+    epikod() {
+        this->name = "yuklendi";
+    }
+
+    string getName() {
+        return name;
+    }
+
+    void setName(string s1) {
+        name = s1;
+    }
+
+    ~epikod() {
+        cout << "destructor";
+    }
+
+private:
+    string name;
+};
+ */
 
 

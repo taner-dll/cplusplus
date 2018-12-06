@@ -6,13 +6,17 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/tnrdll/CLionProjects/untitled/utils.cpp
-utils.h
+C:/Users/tnrdll/CLionProjects/untitled/functions/sayisal.cpp
+c++/4.8.3/iostream
+-
+sayisal.h
+C:/Users/tnrdll/CLionProjects/untitled/functions/sayisal.h
+../utils.h
 C:/Users/tnrdll/CLionProjects/untitled/utils.h
-cstdlib
+algorithm
 -
-ctime
--
+
+C:/Users/tnrdll/CLionProjects/untitled/functions/sayisal.h
 
 C:/Users/tnrdll/CLionProjects/untitled/utils.h
 

@@ -9,4 +9,4 @@ add_executable(
         functions/faktoriyel.cpp
         classes/aforizma.cpp classes/aforizma.h
         utils.cpp utils.h
-)
+        functions/sayisal.cpp functions/sayisal.h)

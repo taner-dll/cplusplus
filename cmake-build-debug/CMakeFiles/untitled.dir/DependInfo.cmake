@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/tnrdll/CLionProjects/untitled/classes/aforizma.cpp" "C:/Users/tnrdll/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/classes/aforizma.cpp.obj"
   "C:/Users/tnrdll/CLionProjects/untitled/functions/faktoriyel.cpp" "C:/Users/tnrdll/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/functions/faktoriyel.cpp.obj"
+  "C:/Users/tnrdll/CLionProjects/untitled/functions/sayisal.cpp" "C:/Users/tnrdll/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/functions/sayisal.cpp.obj"
   "C:/Users/tnrdll/CLionProjects/untitled/main.cpp" "C:/Users/tnrdll/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.obj"
   "C:/Users/tnrdll/CLionProjects/untitled/utils.cpp" "C:/Users/tnrdll/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/utils.cpp.obj"
   )

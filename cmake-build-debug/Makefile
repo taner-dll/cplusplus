@@ -176,6 +176,33 @@ functions/faktoriyel.cpp.s:
 	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/functions/faktoriyel.cpp.s
 .PHONY : functions/faktoriyel.cpp.s
 
+functions/sayisal.obj: functions/sayisal.cpp.obj
+
+.PHONY : functions/sayisal.obj
+
+# target to build an object file
+functions/sayisal.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/functions/sayisal.cpp.obj
+.PHONY : functions/sayisal.cpp.obj
+
+functions/sayisal.i: functions/sayisal.cpp.i
+
+.PHONY : functions/sayisal.i
+
+# target to preprocess a source file
+functions/sayisal.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/functions/sayisal.cpp.i
+.PHONY : functions/sayisal.cpp.i
+
+functions/sayisal.s: functions/sayisal.cpp.s
+
+.PHONY : functions/sayisal.s
+
+# target to generate assembly for a file
+functions/sayisal.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/functions/sayisal.cpp.s
+.PHONY : functions/sayisal.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -245,6 +272,9 @@ help:
 	@echo ... functions/faktoriyel.obj
 	@echo ... functions/faktoriyel.i
 	@echo ... functions/faktoriyel.s
+	@echo ... functions/sayisal.obj
+	@echo ... functions/sayisal.i
+	@echo ... functions/sayisal.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
