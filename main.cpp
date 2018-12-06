@@ -1,4 +1,7 @@
 #include <iostream>
+#include "utils.h"
+#include <stdlib.h>
+
 
 using namespace std;
 
@@ -32,23 +35,20 @@ int main() {
 
     //todo sayısal loto
 
+    utils util;
+
+
+    cout << util.rand(10,100);
 
     return 0;
 
 
 
-    //setter - getter class
-
-
-    /* setter - getter class
-
-    */
-
 
     /*
      * utils in_array
     int enFazla = 49, enAz = 1;
-    srand(time(0));
+
     int sayilar[6];
     for(int i = 0; i < 6; i++){
         sayilar[i] = rand() % (enFazla - enAz + 1 ) + enAz;

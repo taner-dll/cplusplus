@@ -10,6 +10,7 @@ class utils {
 
 public:
     bool in_array(int array[], int size, int target);
+    int rand(int min, int max);
 };
 
 

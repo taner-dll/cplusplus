@@ -6,7 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/tnrdll/CLionProjects/untitled/main.cpp
-iostream
+C:/Users/tnrdll/CLionProjects/untitled/utils.cpp
+utils.h
+C:/Users/tnrdll/CLionProjects/untitled/utils.h
+cstdlib
 -
+ctime
+-
+
+C:/Users/tnrdll/CLionProjects/untitled/utils.h
 
