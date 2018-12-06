@@ -4,6 +4,8 @@
 
 #include "functions/sayisal.h"      //sayisal
 
+#define AUTHOR "TANER";
+
 
 using namespace std;
 
@@ -13,6 +15,7 @@ using namespace std;
 int main() {
 
     sayisal_kolon_uret();
+    cout << AUTHOR;
 
 
     return 0;
