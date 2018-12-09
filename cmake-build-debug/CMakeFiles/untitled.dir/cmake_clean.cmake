@@ -6,6 +6,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/untitled.dir/functions/sayisal.cpp.obj"
   "CMakeFiles/untitled.dir/programs/1_girilen_bes_sayiyi_topla.cpp.obj"
   "CMakeFiles/untitled.dir/programs/2_menu_switch.cpp.obj"
+  "CMakeFiles/untitled.dir/functions/function_overloading.cpp.obj"
   "untitled.pdb"
   "untitled.exe"
   "untitled.exe.manifest"

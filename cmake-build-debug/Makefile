@@ -176,6 +176,33 @@ functions/faktoriyel.cpp.s:
 	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/functions/faktoriyel.cpp.s
 .PHONY : functions/faktoriyel.cpp.s
 
+functions/function_overloading.obj: functions/function_overloading.cpp.obj
+
+.PHONY : functions/function_overloading.obj
+
+# target to build an object file
+functions/function_overloading.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/functions/function_overloading.cpp.obj
+.PHONY : functions/function_overloading.cpp.obj
+
+functions/function_overloading.i: functions/function_overloading.cpp.i
+
+.PHONY : functions/function_overloading.i
+
+# target to preprocess a source file
+functions/function_overloading.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/functions/function_overloading.cpp.i
+.PHONY : functions/function_overloading.cpp.i
+
+functions/function_overloading.s: functions/function_overloading.cpp.s
+
+.PHONY : functions/function_overloading.s
+
+# target to generate assembly for a file
+functions/function_overloading.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/functions/function_overloading.cpp.s
+.PHONY : functions/function_overloading.cpp.s
+
 functions/sayisal.obj: functions/sayisal.cpp.obj
 
 .PHONY : functions/sayisal.obj
@@ -326,6 +353,9 @@ help:
 	@echo ... functions/faktoriyel.obj
 	@echo ... functions/faktoriyel.i
 	@echo ... functions/faktoriyel.s
+	@echo ... functions/function_overloading.obj
+	@echo ... functions/function_overloading.i
+	@echo ... functions/function_overloading.s
 	@echo ... functions/sayisal.obj
 	@echo ... functions/sayisal.i
 	@echo ... functions/sayisal.s

@@ -1,7 +1,7 @@
 #include <iostream>
 #include "utils.h"
 
-#include "programs/2_menu_switch.h"
+#include "functions/function_overloading.h"
 
 //#define AUTHOR "TANER";
 
@@ -9,10 +9,11 @@ using namespace std;
 
 int main() {
 
+    float x = 15.67;
+    int y = 8;
 
-    menu_switch();
-
-
+    printNumber(y);
+    printNumber(x);
 
 
     return 0;

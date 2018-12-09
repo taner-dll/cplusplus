@@ -6,12 +6,15 @@ CMakeFiles/untitled.dir/classes/aforizma.cpp.obj: ../classes/aforizma.h
 
 CMakeFiles/untitled.dir/functions/faktoriyel.cpp.obj: ../functions/faktoriyel.cpp
 
+CMakeFiles/untitled.dir/functions/function_overloading.cpp.obj: ../functions/function_overloading.cpp
+CMakeFiles/untitled.dir/functions/function_overloading.cpp.obj: ../functions/function_overloading.h
+
 CMakeFiles/untitled.dir/functions/sayisal.cpp.obj: ../functions/sayisal.cpp
 CMakeFiles/untitled.dir/functions/sayisal.cpp.obj: ../functions/sayisal.h
 CMakeFiles/untitled.dir/functions/sayisal.cpp.obj: ../utils.h
 
+CMakeFiles/untitled.dir/main.cpp.obj: ../functions/function_overloading.h
 CMakeFiles/untitled.dir/main.cpp.obj: ../main.cpp
-CMakeFiles/untitled.dir/main.cpp.obj: ../programs/2_menu_switch.h
 CMakeFiles/untitled.dir/main.cpp.obj: ../utils.h
 
 CMakeFiles/untitled.dir/programs/1_girilen_bes_sayiyi_topla.cpp.obj: ../programs/1_girilen_bes_sayiyi_topla.cpp
