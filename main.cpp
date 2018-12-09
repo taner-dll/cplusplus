@@ -9,7 +9,9 @@ using namespace std;
 
 int main() {
 
-    cout << girilen_bes_sayiyi_topla();
+
+
+
 
     return 0;
 }
@@ -38,6 +40,24 @@ public:
 private:
     string name;
 };
+ */
+
+
+/*
+  int x = 5;
+
+    //sadece koşul sağlandığında çalışır
+    while (x > 5){
+        x--;
+        cout << "works" << x;
+    }
+
+    //önce çalışmaya başlar, sonra koşula bakar
+    do{
+        x--;
+        cout << "works" << x;
+    }while (x > 5);
+
  */
 
 

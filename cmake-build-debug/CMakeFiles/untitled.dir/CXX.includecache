@@ -6,11 +6,15 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/tnrdll/CLionProjects/untitled/programs/1_girilen_bes_sayiyi_topla.cpp
-c++/4.8.3/iostream
+C:/Users/tnrdll/CLionProjects/untitled/main.cpp
+iostream
 -
-1_girilen_bes_sayiyi_topla.h
+utils.h
+C:/Users/tnrdll/CLionProjects/untitled/utils.h
+programs/1_girilen_bes_sayiyi_topla.h
 C:/Users/tnrdll/CLionProjects/untitled/programs/1_girilen_bes_sayiyi_topla.h
 
 C:/Users/tnrdll/CLionProjects/untitled/programs/1_girilen_bes_sayiyi_topla.h
+
+C:/Users/tnrdll/CLionProjects/untitled/utils.h
 
