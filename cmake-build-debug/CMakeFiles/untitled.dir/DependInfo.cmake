@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/tnrdll/CLionProjects/untitled/functions/sayisal.cpp" "C:/Users/tnrdll/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/functions/sayisal.cpp.obj"
   "C:/Users/tnrdll/CLionProjects/untitled/main.cpp" "C:/Users/tnrdll/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.obj"
   "C:/Users/tnrdll/CLionProjects/untitled/programs/1_girilen_bes_sayiyi_topla.cpp" "C:/Users/tnrdll/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/programs/1_girilen_bes_sayiyi_topla.cpp.obj"
+  "C:/Users/tnrdll/CLionProjects/untitled/programs/2_menu_switch.cpp" "C:/Users/tnrdll/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/programs/2_menu_switch.cpp.obj"
   "C:/Users/tnrdll/CLionProjects/untitled/utils.cpp" "C:/Users/tnrdll/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/utils.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

@@ -257,6 +257,33 @@ programs/1_girilen_bes_sayiyi_topla.cpp.s:
 	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/programs/1_girilen_bes_sayiyi_topla.cpp.s
 .PHONY : programs/1_girilen_bes_sayiyi_topla.cpp.s
 
+programs/2_menu_switch.obj: programs/2_menu_switch.cpp.obj
+
+.PHONY : programs/2_menu_switch.obj
+
+# target to build an object file
+programs/2_menu_switch.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/programs/2_menu_switch.cpp.obj
+.PHONY : programs/2_menu_switch.cpp.obj
+
+programs/2_menu_switch.i: programs/2_menu_switch.cpp.i
+
+.PHONY : programs/2_menu_switch.i
+
+# target to preprocess a source file
+programs/2_menu_switch.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/programs/2_menu_switch.cpp.i
+.PHONY : programs/2_menu_switch.cpp.i
+
+programs/2_menu_switch.s: programs/2_menu_switch.cpp.s
+
+.PHONY : programs/2_menu_switch.s
+
+# target to generate assembly for a file
+programs/2_menu_switch.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/programs/2_menu_switch.cpp.s
+.PHONY : programs/2_menu_switch.cpp.s
+
 utils.obj: utils.cpp.obj
 
 .PHONY : utils.obj
@@ -308,6 +335,9 @@ help:
 	@echo ... programs/1_girilen_bes_sayiyi_topla.obj
 	@echo ... programs/1_girilen_bes_sayiyi_topla.i
 	@echo ... programs/1_girilen_bes_sayiyi_topla.s
+	@echo ... programs/2_menu_switch.obj
+	@echo ... programs/2_menu_switch.i
+	@echo ... programs/2_menu_switch.s
 	@echo ... utils.obj
 	@echo ... utils.i
 	@echo ... utils.s

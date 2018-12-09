@@ -11,11 +11,14 @@ CMakeFiles/untitled.dir/functions/sayisal.cpp.obj: ../functions/sayisal.h
 CMakeFiles/untitled.dir/functions/sayisal.cpp.obj: ../utils.h
 
 CMakeFiles/untitled.dir/main.cpp.obj: ../main.cpp
-CMakeFiles/untitled.dir/main.cpp.obj: ../programs/1_girilen_bes_sayiyi_topla.h
+CMakeFiles/untitled.dir/main.cpp.obj: ../programs/2_menu_switch.h
 CMakeFiles/untitled.dir/main.cpp.obj: ../utils.h
 
 CMakeFiles/untitled.dir/programs/1_girilen_bes_sayiyi_topla.cpp.obj: ../programs/1_girilen_bes_sayiyi_topla.cpp
 CMakeFiles/untitled.dir/programs/1_girilen_bes_sayiyi_topla.cpp.obj: ../programs/1_girilen_bes_sayiyi_topla.h
+
+CMakeFiles/untitled.dir/programs/2_menu_switch.cpp.obj: ../programs/2_menu_switch.cpp
+CMakeFiles/untitled.dir/programs/2_menu_switch.cpp.obj: ../programs/2_menu_switch.h
 
 CMakeFiles/untitled.dir/utils.cpp.obj: ../utils.cpp
 CMakeFiles/untitled.dir/utils.cpp.obj: ../utils.h

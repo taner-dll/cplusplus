@@ -1,7 +1,7 @@
 #include <iostream>
 #include "utils.h"
 
-#include "programs/1_girilen_bes_sayiyi_topla.h"
+#include "programs/2_menu_switch.h"
 
 //#define AUTHOR "TANER";
 
@@ -9,6 +9,8 @@ using namespace std;
 
 int main() {
 
+
+    menu_switch();
 
 
 
