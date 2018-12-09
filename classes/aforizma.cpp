@@ -8,6 +8,3 @@
 void aforizma::yazi1(){
     std::cout << "aforizma 1" << std::endl;
 }
-
-
-

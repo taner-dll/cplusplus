@@ -9,4 +9,4 @@ add_executable(
         functions/faktoriyel.cpp
         classes/aforizma.cpp classes/aforizma.h
         utils.cpp utils.h
-        functions/sayisal.cpp functions/sayisal.h)
+        functions/sayisal.cpp functions/sayisal.h programs/1_girilen_bes_sayiyi_topla.cpp programs/1_girilen_bes_sayiyi_topla.h)

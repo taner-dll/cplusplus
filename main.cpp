@@ -1,75 +1,25 @@
 #include <iostream>
 #include "utils.h"
-#include <stdlib.h>
 
-#include "functions/sayisal.h"      //sayisal
+#include "programs/1_girilen_bes_sayiyi_topla.h"
 
-#define AUTHOR "TANER";
-
+//#define AUTHOR "TANER";
 
 using namespace std;
 
-
-
-
 int main() {
 
-    sayisal_kolon_uret();
-    cout << AUTHOR;
-
+    cout << girilen_bes_sayiyi_topla();
 
     return 0;
-
-
-
-
-    /*
-     * utils in_array
-    int enFazla = 49, enAz = 1;
-
-    int sayilar[6];
-    for(int i = 0; i < 6; i++){
-        sayilar[i] = rand() % (enFazla - enAz + 1 ) + enAz;
-    }
-    for(int i = 0; i < (sizeof(sayilar)/sizeof(*sayilar)); i++){
-        cout << sayilar[i] << " ";
-    }
-    utils u;
-    if(u.in_array(sayilar,6,14)){
-        cout << endl << "14 dizide var" ;
-    } else{
-        cout << endl << "14 dizide yok";
-    }
-    */
-
-
-    /* class include
-    aforizma a_obj;
-    a_obj.yazi1();
-    */
-
-    /*
-    //class denemesi
-    aforizmalar af_obj;
-    af_obj.yazi1();
-    return 0;
-    */
-
-    /*
-    int sayi;
-    std::cout << "Faktoriyeli alinacak sayiyi giriniz:";
-    std::cin >> sayi;
-    cout << faktoriyel(sayi);
-    return 0;
-     */
-
 }
 
 
 /*
 class epikod {
 public:
-    epikod() {
+    epikod() { //constructor
+
         this->name = "yuklendi";
     }
 
@@ -81,7 +31,7 @@ public:
         name = s1;
     }
 
-    ~epikod() {
+    ~epikod() { //destructor
         cout << "destructor";
     }
 

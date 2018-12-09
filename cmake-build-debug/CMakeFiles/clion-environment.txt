@@ -1,4 +1,4 @@
 ToolSet: w64 3.3 (local)@C:\Users\tnrdll\win-builds
-Options: 
+Options: msvc.arch=x86
 
 Options:
