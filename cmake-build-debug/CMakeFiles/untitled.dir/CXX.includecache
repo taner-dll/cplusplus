@@ -6,15 +6,15 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/tnrdll/CLionProjects/untitled/functions/function_overloading.h
+C:/Users/tnrdll/CLionProjects/untitled/functions/print_array.h
 
 C:/Users/tnrdll/CLionProjects/untitled/main.cpp
 iostream
 -
 utils.h
 C:/Users/tnrdll/CLionProjects/untitled/utils.h
-functions/function_overloading.h
-C:/Users/tnrdll/CLionProjects/untitled/functions/function_overloading.h
+functions/print_array.h
+C:/Users/tnrdll/CLionProjects/untitled/functions/print_array.h
 
 C:/Users/tnrdll/CLionProjects/untitled/utils.h
 

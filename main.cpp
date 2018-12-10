@@ -1,7 +1,7 @@
 #include <iostream>
 #include "utils.h"
 
-#include "functions/function_overloading.h"
+#include "functions/print_array.h"
 
 //#define AUTHOR "TANER";
 
@@ -9,11 +9,10 @@ using namespace std;
 
 int main() {
 
-    float x = 15.67;
-    int y = 8;
 
-    printNumber(y);
-    printNumber(x);
+    int arr[5] = {44,33,22,77,88};
+
+    print_array(arr, 5);
 
 
     return 0;
