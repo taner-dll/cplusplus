@@ -9,6 +9,9 @@ CMakeFiles/untitled.dir/functions/faktoriyel.cpp.obj: ../functions/faktoriyel.cp
 CMakeFiles/untitled.dir/functions/function_overloading.cpp.obj: ../functions/function_overloading.cpp
 CMakeFiles/untitled.dir/functions/function_overloading.cpp.obj: ../functions/function_overloading.h
 
+CMakeFiles/untitled.dir/functions/pointers.cpp.obj: ../functions/pointers.cpp
+CMakeFiles/untitled.dir/functions/pointers.cpp.obj: ../functions/pointers.h
+
 CMakeFiles/untitled.dir/functions/print_array.cpp.obj: ../functions/print_array.cpp
 CMakeFiles/untitled.dir/functions/print_array.cpp.obj: ../functions/print_array.h
 
@@ -19,7 +22,7 @@ CMakeFiles/untitled.dir/functions/sayisal.cpp.obj: ../functions/sayisal.cpp
 CMakeFiles/untitled.dir/functions/sayisal.cpp.obj: ../functions/sayisal.h
 CMakeFiles/untitled.dir/functions/sayisal.cpp.obj: ../utils.h
 
-CMakeFiles/untitled.dir/main.cpp.obj: ../functions/print_multi_array.h
+CMakeFiles/untitled.dir/main.cpp.obj: ../functions/pointers.h
 CMakeFiles/untitled.dir/main.cpp.obj: ../main.cpp
 CMakeFiles/untitled.dir/main.cpp.obj: ../utils.h
 

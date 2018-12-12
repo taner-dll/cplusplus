@@ -9,6 +9,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/untitled.dir/functions/function_overloading.cpp.obj"
   "CMakeFiles/untitled.dir/functions/print_array.cpp.obj"
   "CMakeFiles/untitled.dir/functions/print_multi_array.cpp.obj"
+  "CMakeFiles/untitled.dir/functions/pointers.cpp.obj"
   "untitled.pdb"
   "untitled.exe"
   "untitled.exe.manifest"

@@ -9,6 +9,9 @@ CMakeFiles/untitled.dir/functions/faktoriyel.cpp.obj
 CMakeFiles/untitled.dir/functions/function_overloading.cpp.obj
  C:/Users/tnrdll/CLionProjects/untitled/functions/function_overloading.cpp
  C:/Users/tnrdll/CLionProjects/untitled/functions/function_overloading.h
+CMakeFiles/untitled.dir/functions/pointers.cpp.obj
+ C:/Users/tnrdll/CLionProjects/untitled/functions/pointers.cpp
+ C:/Users/tnrdll/CLionProjects/untitled/functions/pointers.h
 CMakeFiles/untitled.dir/functions/print_array.cpp.obj
  C:/Users/tnrdll/CLionProjects/untitled/functions/print_array.cpp
  C:/Users/tnrdll/CLionProjects/untitled/functions/print_array.h
@@ -20,7 +23,7 @@ CMakeFiles/untitled.dir/functions/sayisal.cpp.obj
  C:/Users/tnrdll/CLionProjects/untitled/functions/sayisal.h
  C:/Users/tnrdll/CLionProjects/untitled/utils.h
 CMakeFiles/untitled.dir/main.cpp.obj
- C:/Users/tnrdll/CLionProjects/untitled/functions/print_multi_array.h
+ C:/Users/tnrdll/CLionProjects/untitled/functions/pointers.h
  C:/Users/tnrdll/CLionProjects/untitled/main.cpp
  C:/Users/tnrdll/CLionProjects/untitled/utils.h
 CMakeFiles/untitled.dir/programs/1_girilen_bes_sayiyi_topla.cpp.obj

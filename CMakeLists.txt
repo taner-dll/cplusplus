@@ -18,4 +18,4 @@ add_executable(
         functions/function_overloading.h
         functions/print_array.cpp
         functions/print_array.h
-        functions/print_multi_array.cpp functions/print_multi_array.h)
+        functions/print_multi_array.cpp functions/print_multi_array.h functions/pointers.cpp functions/pointers.h)

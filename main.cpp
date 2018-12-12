@@ -1,25 +1,33 @@
 #include <iostream>
 #include "utils.h"
 
-#include "functions/print_multi_array.h"
+#include "functions/pointers.h"
 
 //#define AUTHOR "TANER";
 
 using namespace std;
 
 
-
-
-
 int main() {
 
 
-    int array[2][3] = {{22,33,44},{55,66,77}};
+    int a = 10;
+    int b = 10;
 
-    print_multi_dimensional_array(array);
+    /*
+     * pointer değişkene, integer değer atamak için
+     * int *degisken_adi = 99
+     *
+     * herhangi bir değişkenin bellekteki adresine ulaşmak için (&)
+     * &degisken
+     *
+     */
 
+    passByValue(a);
+    passByReferance(&b);
 
-
+    cout << a << endl;
+    cout << b << endl;
 
     return 0;
 }

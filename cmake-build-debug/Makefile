@@ -203,6 +203,33 @@ functions/function_overloading.cpp.s:
 	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/functions/function_overloading.cpp.s
 .PHONY : functions/function_overloading.cpp.s
 
+functions/pointers.obj: functions/pointers.cpp.obj
+
+.PHONY : functions/pointers.obj
+
+# target to build an object file
+functions/pointers.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/functions/pointers.cpp.obj
+.PHONY : functions/pointers.cpp.obj
+
+functions/pointers.i: functions/pointers.cpp.i
+
+.PHONY : functions/pointers.i
+
+# target to preprocess a source file
+functions/pointers.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/functions/pointers.cpp.i
+.PHONY : functions/pointers.cpp.i
+
+functions/pointers.s: functions/pointers.cpp.s
+
+.PHONY : functions/pointers.s
+
+# target to generate assembly for a file
+functions/pointers.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/functions/pointers.cpp.s
+.PHONY : functions/pointers.cpp.s
+
 functions/print_array.obj: functions/print_array.cpp.obj
 
 .PHONY : functions/print_array.obj
@@ -410,6 +437,9 @@ help:
 	@echo ... functions/function_overloading.obj
 	@echo ... functions/function_overloading.i
 	@echo ... functions/function_overloading.s
+	@echo ... functions/pointers.obj
+	@echo ... functions/pointers.i
+	@echo ... functions/pointers.s
 	@echo ... functions/print_array.obj
 	@echo ... functions/print_array.i
 	@echo ... functions/print_array.s
