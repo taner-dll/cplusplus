@@ -230,6 +230,33 @@ functions/print_array.cpp.s:
 	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/functions/print_array.cpp.s
 .PHONY : functions/print_array.cpp.s
 
+functions/print_multi_array.obj: functions/print_multi_array.cpp.obj
+
+.PHONY : functions/print_multi_array.obj
+
+# target to build an object file
+functions/print_multi_array.cpp.obj:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/functions/print_multi_array.cpp.obj
+.PHONY : functions/print_multi_array.cpp.obj
+
+functions/print_multi_array.i: functions/print_multi_array.cpp.i
+
+.PHONY : functions/print_multi_array.i
+
+# target to preprocess a source file
+functions/print_multi_array.cpp.i:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/functions/print_multi_array.cpp.i
+.PHONY : functions/print_multi_array.cpp.i
+
+functions/print_multi_array.s: functions/print_multi_array.cpp.s
+
+.PHONY : functions/print_multi_array.s
+
+# target to generate assembly for a file
+functions/print_multi_array.cpp.s:
+	$(MAKE) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/functions/print_multi_array.cpp.s
+.PHONY : functions/print_multi_array.cpp.s
+
 functions/sayisal.obj: functions/sayisal.cpp.obj
 
 .PHONY : functions/sayisal.obj
@@ -386,6 +413,9 @@ help:
 	@echo ... functions/print_array.obj
 	@echo ... functions/print_array.i
 	@echo ... functions/print_array.s
+	@echo ... functions/print_multi_array.obj
+	@echo ... functions/print_multi_array.i
+	@echo ... functions/print_multi_array.s
 	@echo ... functions/sayisal.obj
 	@echo ... functions/sayisal.i
 	@echo ... functions/sayisal.s

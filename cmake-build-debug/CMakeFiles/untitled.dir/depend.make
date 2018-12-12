@@ -12,11 +12,14 @@ CMakeFiles/untitled.dir/functions/function_overloading.cpp.obj: ../functions/fun
 CMakeFiles/untitled.dir/functions/print_array.cpp.obj: ../functions/print_array.cpp
 CMakeFiles/untitled.dir/functions/print_array.cpp.obj: ../functions/print_array.h
 
+CMakeFiles/untitled.dir/functions/print_multi_array.cpp.obj: ../functions/print_multi_array.cpp
+CMakeFiles/untitled.dir/functions/print_multi_array.cpp.obj: ../functions/print_multi_array.h
+
 CMakeFiles/untitled.dir/functions/sayisal.cpp.obj: ../functions/sayisal.cpp
 CMakeFiles/untitled.dir/functions/sayisal.cpp.obj: ../functions/sayisal.h
 CMakeFiles/untitled.dir/functions/sayisal.cpp.obj: ../utils.h
 
-CMakeFiles/untitled.dir/main.cpp.obj: ../functions/print_array.h
+CMakeFiles/untitled.dir/main.cpp.obj: ../functions/print_multi_array.h
 CMakeFiles/untitled.dir/main.cpp.obj: ../main.cpp
 CMakeFiles/untitled.dir/main.cpp.obj: ../utils.h
 

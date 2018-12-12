@@ -1,18 +1,24 @@
 #include <iostream>
 #include "utils.h"
 
-#include "functions/print_array.h"
+#include "functions/print_multi_array.h"
 
 //#define AUTHOR "TANER";
 
 using namespace std;
 
+
+
+
+
 int main() {
 
 
-    int arr[5] = {44,33,22,77,88};
+    int array[2][3] = {{22,33,44},{55,66,77}};
 
-    print_array(arr, 5);
+    print_multi_dimensional_array(array);
+
+
 
 
     return 0;

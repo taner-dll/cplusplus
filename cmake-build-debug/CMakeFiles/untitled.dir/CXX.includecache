@@ -6,15 +6,21 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/tnrdll/CLionProjects/untitled/functions/print_array.h
+C:/Users/tnrdll/CLionProjects/untitled/functions/print_multi_array.cpp
+c++/4.8.3/iostream
+-
+print_multi_array.h
+C:/Users/tnrdll/CLionProjects/untitled/functions/print_multi_array.h
+
+C:/Users/tnrdll/CLionProjects/untitled/functions/print_multi_array.h
 
 C:/Users/tnrdll/CLionProjects/untitled/main.cpp
 iostream
 -
 utils.h
 C:/Users/tnrdll/CLionProjects/untitled/utils.h
-functions/print_array.h
-C:/Users/tnrdll/CLionProjects/untitled/functions/print_array.h
+functions/print_multi_array.h
+C:/Users/tnrdll/CLionProjects/untitled/functions/print_multi_array.h
 
 C:/Users/tnrdll/CLionProjects/untitled/utils.h
 
